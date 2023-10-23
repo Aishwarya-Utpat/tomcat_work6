@@ -10,7 +10,7 @@
     <nav>
         <ul>
             <a href=""><li>HOME</li></a> 
-            <a href=""><li>ABOUT</li></a> 
+            <a href="about.jsp"><li>ABOUT</li></a> 
             <a href=""><li>CONTACT</li></a> 
             <a href=""><li>RESULT</li></a> 
             <a href=""><li>MERITLIST</li></a> 
