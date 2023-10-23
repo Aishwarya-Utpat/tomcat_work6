@@ -15,6 +15,6 @@
             
         </ul>
     </nav>
-<h1>Walchand Institute Of Technology, Solapur </h1>
+<h1>Walchand Institute Of Technology, Solapur</h1>
 </body>
 </html>
